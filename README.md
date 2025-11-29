@@ -1,4 +1,4 @@
-🔍 Credit-Default Risk Modeling Pipeline
+Credit-Default Risk Modeling Pipeline
 
 Built a calibrated XGBoost credit-default classifier achieving AUC = 0.91 and KS = 0.46, supported by a full risk-feature engineering pipeline (DTI, revolving-utilization, credit-history depth, inquiry-velocity, and other consumer-lending transformations).
 
